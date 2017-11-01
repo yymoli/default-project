@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+	<sys-framework>
+		<framework></framework>
+	</sys-framework>
+	<delegate-classes>
+		<class></class>
+	</delegate-classes>
+	<debugSettings>
+		<debug></debug>
+		<release></release>
+	</debugSettings>
+	<urlscheme>summer1</urlscheme>
+	<apps>
+		<app>target1</app>
+		<app>target2</app>
+	</apps>
+</config>
