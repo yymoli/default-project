@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## 1.环境搭建及运行
 
@@ -109,3 +110,18 @@ const proxyConfig = [{
 
 `uba.config.js`内的`svrConfig`字段修改.
 
+=======
+# test
+### 先安装moli(必要时加上sudo)
+
+$ sudo npm install uba -g 
+$ uba -v
+Version : 2.0.4
+### 创建工程
+$ moli init
+
+### 进入应用，启动项目
+$ cd manage-demo
+$ npm run start
+访问项目首页，http://localhost:8080/
+>>>>>>> d41d7cf1f894e672a98d942d2836d66cc4bbb50b
