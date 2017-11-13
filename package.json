@@ -5,11 +5,7 @@
   "main": "gulpfile.js",
   "dependencies": {
     "axios": "^0.16.2",
-    "bee-autosuggest": "^1.0.0",
-    "bee-button": "^1.0.2",
-    "bee-table": "^1.0.3",
     "classnames": "^2.2.5",
-    "m-bee-datetimepicker": "^1.0.5",
     "process-nextick-args": "^1.0.7",
     "promise-polyfill": "^6.0.2",
     "prop-types": "^15.5.10",
